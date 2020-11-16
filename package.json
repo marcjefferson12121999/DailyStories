@@ -1,0 +1,22 @@
+{
+  "name": "dailystories",
+  "version": "1.0.0",
+  "description": "public Stories\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[P",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcjefferson12121999/DailyStories.git"
+  },
+  "author": "MJRS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcjefferson12121999/DailyStories/issues"
+  },
+  "homepage": "https://github.com/marcjefferson12121999/DailyStories#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
